@@ -1,0 +1,12 @@
+.header {
+  text-align: center;
+}
+.dow {
+  text-align: center;
+}
+.header > h2 {
+  color: #fc3c3c;
+}
+.in {
+  text-align: center;
+}
